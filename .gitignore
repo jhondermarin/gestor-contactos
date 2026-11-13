@@ -1,0 +1,10 @@
+# Dependencias
+/vendor/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuración local
+.env
